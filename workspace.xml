@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ce40774-04e7-4d7d-bdd6-dc3aef75c9ea" name="Changes" comment="add new pages">
+      <change afterPath="$PROJECT_DIR$/controllers/CarCreate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/CarDelete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/TankCreate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/TankDelete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/BaseModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/cars/carCreate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/cars/carListView.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/tanks/TankListView.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/tanks/tankCreate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/CarController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/CarController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/MainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/TankController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/TankController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/Connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/db/Connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Car.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Tank.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/Tank.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/TankListView.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/TankView.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/tanks/TankView.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/carListView.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/carView.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/cars/carView.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/error.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/error.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/main/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="598d77ca-0b3e-4633-adb0-43c9ff5233b1" />
+        <option name="url" value="https://github.com/Akiro291/First-code.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2lyFvHfhYSIVfUPhercPy0iQVbd" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Hazvi/PhpstormProjects/create-repository",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\test\views\tanks" />
+      <recent name="D:\projects\test\views\cars" />
+      <recent name="D:\projects\test\views\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="docker-deploy" />
+      </set>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ce40774-04e7-4d7d-bdd6-dc3aef75c9ea" name="Changes" comment="" />
+      <created>1726144639070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726144639070</updated>
+      <workItem from="1726144640402" duration="730000" />
+      <workItem from="1726145383127" duration="49000" />
+      <workItem from="1726145446676" duration="709000" />
+      <workItem from="1726234673421" duration="4980000" />
+      <workItem from="1726314579642" duration="5793000" />
+      <workItem from="1726583321022" duration="4148000" />
+      <workItem from="1728047538533" duration="11913000" />
+      <workItem from="1728570158627" duration="7056000" />
+      <workItem from="1728657105074" duration="6131000" />
+      <workItem from="1728744209718" duration="6724000" />
+      <workItem from="1728998468365" duration="5949000" />
+      <workItem from="1729680498056" duration="1041000" />
+      <workItem from="1729681825027" duration="783000" />
+      <workItem from="1729682622111" duration="200000" />
+    </task>
+    <task id="LOCAL-00001" summary="add new pages">
+      <created>1726585016660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726585016660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new pages" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

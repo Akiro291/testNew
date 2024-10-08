@@ -1,0 +1,19 @@
+version: '3.6'
+
+services:
+  test:
+    container_name: test
+    image: goldcarrot/php8.2-apache
+    working_dir: /var/www/application
+    volumes:
+      - ./:/var/www/application
+    environment:
+      VIRTUAL_HOST: test.local.gd
+      APACHE_DOCUMENT_ROOT: /var/www/application/web
+    networks:
+      - goldcarrot
+
+networks:
+  goldcarrot:
+    name: goldcarrot
+    driver: bridge
